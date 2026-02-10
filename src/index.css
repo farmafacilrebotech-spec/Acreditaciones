@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Rubik Maps', system-ui, sans-serif;
+  font-weight: 700;
+}
